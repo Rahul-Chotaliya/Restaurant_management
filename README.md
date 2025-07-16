@@ -24,7 +24,7 @@ ________________________________________
   1.	Clone the repository:
     bash
     CopyEdit
-    git clone https://github.com/yourusername/restaurant-management-system.git
+    git clone [https://github.com/yourusername/restaurant-management-system.git](https://github.com/Rahul-Chotaliya/Restaurant_management.git)
     cd restaurant-management-system
   2.	Create a virtual environment:
     bash
